@@ -1,2 +1,2 @@
-# rider-pike
-Playing card deck that supports Tarot readings
+# rider-pike-icons
+Icons used in the rider-pike deck
