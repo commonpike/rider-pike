@@ -1,2 +1,2 @@
-# rider-pike-icons
-Icons used in the rider-pike deck
+# Rider Pike icons
+Icons used in the Rider Pike deck
