@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-leo-diap-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-160, -192)" id="leo">
+            <g transform="translate(160, 75)">
+                <g id="zodiac-leo-diap-square" transform="translate(0, 117)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M9.99031403,16.8907712 C7.96471299,17.2822771 6,18.7712979 6,20.8423657 C6,22.9134335 7.67893219,24.5923657 9.75,24.5923657 C11.4869056,24.5923657 13.6668255,22.7751837 13.4999693,20.8423657 C13.333113,18.9095477 9.1701122,14.013794 9.1701122,11.5551067 C9.1701122,9.09641931 11.1634052,6 14.75,6 C18.3365948,6 20.7159235,9.00147518 20.7159235,11.5551067 C20.7159235,13.2575276 19.6474706,15.9307537 17.5105649,19.574785 C16.4031484,21.452569 16.7265204,23.1250959 18.4806809,24.5923657 C20.2348414,26.0596355 22.4401323,25.794996 25.0965537,23.7984472" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

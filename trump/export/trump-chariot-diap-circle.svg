@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-chariot-diap-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-280, -232)" id="chariot">
+            <g transform="translate(280, 74)">
+                <g id="diap" transform="translate(0, 118)">
+                    <g id="trump-chariot-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M10.5192181,5.61618193 L21.459086,5.61618193 L21.459086,15.9587845 L10.5192181,15.9587845 Z M7.65290792,19.9955047 L23.7281309,19.9955047 M6.50638385,13.6657364 L6.50638385,24.3905137 M25.4718029,13.6657364 L25.4718029,24.3905137" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

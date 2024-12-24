@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elements-fire-diap-circle</title>
+    <g id="elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -120)" id="fire">
+            <g id="diap" transform="translate(0, 80)">
+                <g id="elements-fire-diap-circle" transform="translate(0, 40)">
+                    <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                    <path d="M16.8680727,26.975419 C16.8680727,26.975419 8.34711715,21.4938547 9.04008642,16.4055866 C9.73305569,11.3173184 17.3043866,5 17.3043866,5 L17.3043866,14.1913779 C17.3043866,14.1913779 22.56582,13.627933 21.9498473,18.003352 C21.3595402,22.3541899 16.8680727,27 16.8680727,27 L16.8680727,26.975419 Z" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-tower-diap-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-640, -232)" id="tower">
+            <g transform="translate(640, 74)">
+                <g id="diap" transform="translate(0, 118)">
+                    <g id="trump-tower-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M7.74289017,23.5436943 L7.74289017,8.45311426 L24.2571098,8.45311426 L24.2571098,23.5436943 M13.0212577,14.5857157 L13.0212577,8.45311426 M18.9880047,14.5857157 L18.9880047,8.45311426" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elements-air-diap-circle</title>
+    <g id="elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-120, -120)" id="air">
+            <g transform="translate(120, 0)">
+                <g id="diap" transform="translate(0, 80)">
+                    <g id="elements-air-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M6,23 L16.0124844,5 L26,23 L6,23 L6,23 Z M20.7565543,13.5423729 L11.2434457,13.5423729" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

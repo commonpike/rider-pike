@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-devil-diap-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-600, -192)" id="devil">
+            <g transform="translate(600, 74)">
+                <g id="trump-devil-diap-square" transform="translate(0, 118)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M22.0888205,14.3620408 C22.0888205,10.9946939 19.3541267,8.26 15.9867797,8.26 C12.6194328,8.26 9.90514706,10.9946939 9.90514706,14.3620408 C9.90514706,17.7293878 15.9867797,26.26 15.9867797,26.26 C15.9867797,26.26 22.0888205,17.7293878 22.0888205,14.3620408 Z M26.4447122,9.47432938 C25.011111,13.6627838 20.8774534,15.6069388 15.9867797,15.6069388 C11.1209116,15.6069388 7.02143067,13.6994862 5.55528783,9.54230661" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

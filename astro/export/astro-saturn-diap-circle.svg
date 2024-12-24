@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>astro-saturn-diap-circle</title>
+    <g id="astro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-240, -232)" id="saturn">
+            <g transform="translate(240, 75)">
+                <g id="diap" transform="translate(0, 117)">
+                    <g id="astro-saturn-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M11.3209955,13.8768657 C12.3060701,12.7798507 14.7910448,11.4253731 16.380597,11.4253731 C19.3358209,11.4253731 21.7089552,13.8208955 21.7089552,16.7537313 C21.7089552,18.2089552 21.2164179,19.2835821 20.2761194,20.5820896 M25,25.1268657 C24.4402985,25.8432836 23.5671642,26.2910448 22.5820896,26.2910448 C20.880597,26.2910448 19.5149254,24.9029851 19.5149254,23.2238806 C19.5149254,22.2835821 19.8059701,21.3208955 20.2761194,20.5820896 M11.3208955,22.7537313 L11.3208955,5 M7,7.17164179 L17.8358209,7.17164179" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

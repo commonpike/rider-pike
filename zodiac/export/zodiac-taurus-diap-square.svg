@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-taurus-diap-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-40, -192)" id="taurus">
+            <g transform="translate(40, 75)">
+                <g id="zodiac-taurus-diap-square" transform="translate(0, 117)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M16.0474847,26.4587448 C19.8872529,26.4587448 23,23.3459977 23,19.5062295 C23,15.6664613 19.8872529,12.5537142 16.0474847,12.5537142 C12.2077165,12.5537142 9.09496939,15.6664613 9.09496939,19.5062295 C9.09496939,23.3459977 12.2077165,26.4587448 16.0474847,26.4587448 Z M8.5,5.07076946 C8.51641728,5.39196663 8.5537249,5.70764685 8.61059086,6.0164781 C9.23211513,9.39189112 12.1900186,11.9491476 15.7452014,11.9491476 C19.3491537,11.9491476 22.3393275,9.32124976 22.9040664,5.87711045 C22.9511343,5.59006055 22.9813544,5.29734079 22.9936778,5" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-emperor-diap-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-160, -192)" id="emperor">
+            <g transform="translate(160, 74)">
+                <g id="trump-emperor-diap-square" transform="translate(0, 118)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M22.4530846,21.5941956 C22.4530846,18.035836 19.5508764,15.1336278 15.9672802,15.1336278 C12.3836839,15.1336278 9.48147575,18.035836 9.48147575,21.5941956 C9.48147575,25.1525552 12.3836839,28.08 15.9672802,28.08 C19.5508764,28.08 22.4530846,25.1777918 22.4530846,21.5941956 Z M15.8410394,4.08 L15.8410394,15.1336278 M11.1218543,9.07678758 L20.5098669,9.07678758" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

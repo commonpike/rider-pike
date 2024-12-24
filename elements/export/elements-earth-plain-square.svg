@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elements-earth-plain-square</title>
+    <g id="elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-80, 0)" id="earth" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(80, 0)">
+                <g id="elements-earth-plain-square" transform="translate(0, -0)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M11.7191011,16.3841808 L20.2808989,16.3841808 M16.011236,24 L7,8 L25,8 L16.011236,24 Z" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

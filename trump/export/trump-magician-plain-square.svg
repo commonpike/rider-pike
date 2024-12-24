@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-magician-plain-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-40, -112)" id="magician" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(40, 74)">
+                <g id="trump-magician-plain-square" transform="translate(0, 38)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M15.9197244,15.9974487 C15.9197244,14.1167051 13.5573269,12.58 10.621532,12.58 C7.68573714,12.58 5.32333969,14.1167051 5.32333969,15.9974487 C5.32333969,17.8781923 7.68573714,19.4148975 10.621532,19.4148975 C13.5573269,19.4148975 15.9197244,17.8781923 15.9197244,15.9974487 Z M26.6766603,15.9974487 C26.6766603,14.1167051 24.3142629,12.58 21.378468,12.58 C18.4426731,12.58 16.0802756,14.1167051 16.0802756,15.9974487 C16.0802756,17.8781923 18.4426731,19.4148975 21.378468,19.4148975 C24.3142629,19.4148975 26.6766603,17.8781923 26.6766603,15.9974487 Z" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elements-water-diap-square</title>
+    <g id="elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-40, -80)" id="water">
+            <g transform="translate(40, 0)">
+                <g id="elements-water-diap-square" transform="translate(0, 80)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M6,12.6497754 C6,12.6497754 9.0958231,9 11.8230958,9 C14.5503686,9 15.97543,11.7509501 16.5405405,12.3774041 C17.1056511,13.0038581 18.5307125,15.6458597 20.7911548,15.6458597 C23.0515971,15.6458597 26,12.3774041 26,12.3774041 M6,19.9766786 C6,19.9766786 9.0958231,16.3269032 11.8230958,16.3269032 C14.5503686,16.3269032 15.97543,19.0778533 16.5405405,19.7043073 C17.1056511,20.3307613 18.5307125,23 20.7911548,23 C23.0515971,23 26,19.7043073 26,19.7043073" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-temperance-plain-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-560, -152)" id="temperance" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(560, 74)">
+                <g id="plain" transform="translate(0, 38)">
+                    <g id="trump-temperance-plain-circle" transform="translate(0, 40)">
+                        <circle id="Oval" cx="16" cy="16" r="14.75"></circle>
+                        <path d="M10.2527277,10.6977768 L6.67187263,14.2786318 C5.07583438,15.8951321 5.07583438,18.4938098 6.67187263,20.089848 C8.26791087,21.7063483 10.8665885,21.7063483 12.4830888,20.089848 L16.0639438,16.508993 M21.7319258,10.6977768 L25.3127809,14.2786318 C26.9292811,15.8951321 26.9292811,18.4938098 25.3127809,20.089848 C23.6962806,21.7063483 21.0976029,21.7063483 19.5015647,20.089848 L15.9207096,16.508993 M6.67187263,16.1815536 L25.3127809,16.1815536" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

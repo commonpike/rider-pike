@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-justice-plain-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-440, -152)" id="justice" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(440, 74)">
+                <g id="plain" transform="translate(0, 38)">
+                    <g id="trump-justice-plain-circle" transform="translate(0, 40)">
+                        <circle id="Oval" cx="16" cy="16" r="14.75"></circle>
+                        <path d="M5.43717949,19.7357401 L10.2115385,13.9742017 L14.4474359,19.7177914 C13.3525641,21.1357401 12.1320513,22.0511247 10.2115385,22.0511247 C8.41666667,22.0511247 6.80128205,21.2613812 5.72435897,20.0049709 M17.5346154,19.7357401 L21.824359,13.9742017 L26.5628205,19.7177914 C25.4679487,21.1357401 23.7628205,22.0511247 21.824359,22.0511247 C20.0294872,22.0511247 18.9166667,21.2613812 17.8217949,20.0049709 M10.2115385,13.9741605 L21.824359,13.9741605 M16.1704717,8.05112474 L16.1704717,13.9742017" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

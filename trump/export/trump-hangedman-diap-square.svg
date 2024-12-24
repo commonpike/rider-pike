@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-hangedman-diap-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-480, -192)" id="hangedman">
+            <g transform="translate(480, 74)">
+                <g id="trump-hangedman-diap-square" transform="translate(0, 118)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M24.2167961,18.8147694 L7.78320393,18.8147694 M23.7210618,5.43 L16.0371801,16.1130742 L8.57637882,5.70265387 M16,26.63 C17.4120325,26.63 18.5567109,25.4853215 18.5567109,24.0732891 C18.5567109,22.6612566 17.4120325,21.5165781 16,21.5165781 C14.5879675,21.5165781 13.4432891,22.6612566 13.4432891,24.0732891 C13.4432891,25.4853215 14.5879675,26.63 16,26.63 Z" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

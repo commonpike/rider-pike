@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>astro-uranus-diap-circle</title>
+    <g id="astro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-280, -232)" id="uranus">
+            <g transform="translate(280, 75)">
+                <g id="diap" transform="translate(0, 117)">
+                    <g id="astro-uranus-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <g id="icon" transform="translate(8.9277, 3.5)">
+                            <path d="M2.62781836,4.61322378 L7.22381245,0 L11.7392837,4.61322378 M7.18028081,1.13686838e-13 L7.18028081,10.4324324 L7.18028081,1.13686838e-13 Z M11.9806228,22.8694178 C14.7926579,20.1586055 14.8747152,15.681453 12.1639028,12.8694178 C9.4530905,10.0573827 4.975938,9.97532538 2.16390285,12.6861377 C-0.648132298,15.3969501 -0.730189589,19.8741026 1.98062276,22.6861377 C4.69143511,25.4981729 9.16858761,25.5802302 11.9806228,22.8694178 Z" id="shape" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <ellipse id="dot" fill="#FFFFFF" fill-rule="nonzero" cx="7.07137729" cy="17.7777778" rx="2.23329811" ry="2.23270498"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-scorpio-diap-circle</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-280, -232)" id="scorpio">
+            <g transform="translate(280, 75)">
+                <g id="diap" transform="translate(0, 117)">
+                    <g id="zodiac-scorpio-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M5.5,10.0485588 C6.31123988,8.68285294 7.23851753,8 8.28183293,8 C9.32514834,8 10.2074723,8.54890569 10.9288048,9.64671708 L10.9288048,24.3896108 M10.9288048,9.64671708 C11.5157546,8.54890569 12.3968748,8 13.5721653,8 C14.7474558,8 15.5778838,8.54890569 16.0634491,9.64671708 L16.0634491,24.3896108 M16.1818832,9.64671708 C16.768833,8.54890569 17.6499531,8 18.8252437,8 C20.0005342,8 20.8309621,8.54890569 21.3165275,9.64671708 C21.3165275,17.3868419 21.3165275,21.2569043 21.3165275,21.2569043 C21.3165275,22.499387 22.4886686,24.41 24.0075384,24.41 C25.5264082,24.41 26.6622363,22.7219234 26.6622363,21.2569043 C26.6622363,20.2802249 26.6622363,19.2067074 26.6622363,18.036352 M24.7305868,18.036352 L26.682125,16.1948054 L28.5337059,18.036352" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

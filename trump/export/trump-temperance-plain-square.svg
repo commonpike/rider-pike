@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-temperance-plain-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-560, -112)" id="temperance" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(560, 74)">
+                <g id="trump-temperance-plain-square" transform="translate(0, 38)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M10.2527277,10.7 L6.67187263,14.280855 C5.07583438,15.8973553 5.07583438,18.496033 6.67187263,20.0920712 C8.26791087,21.7085715 10.8665885,21.7085715 12.4830888,20.0920712 L16.0639438,16.5112162 M21.7319258,10.7 L25.3127809,14.280855 C26.9292811,15.8973553 26.9292811,18.496033 25.3127809,20.0920712 C23.6962806,21.7085715 21.0976029,21.7085715 19.5015647,20.0920712 L15.9207096,16.5112162 M6.67187263,16.1837768 L25.3127809,16.1837768" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

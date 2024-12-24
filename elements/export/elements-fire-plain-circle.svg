@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elements-fire-plain-circle</title>
+    <g id="elements" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -40)" id="fire" stroke="#000000" stroke-width="2.5">
+            <g id="plain" transform="translate(0, -0)">
+                <g id="elements-fire-plain-circle" transform="translate(0, 40)">
+                    <circle id="Oval" cx="16" cy="16" r="14.75"></circle>
+                    <path d="M16.6575999,25.9776536 C16.6575999,25.9776536 9.44756066,20.9944134 10.0339193,16.3687151 C10.6202779,11.7430168 17.0267887,6 17.0267887,6 L17.0267887,14.3557981 C17.0267887,14.3557981 21.4787708,13.8435754 20.9575631,17.8212291 C20.4580724,21.7765363 16.6575999,26 16.6575999,26 L16.6575999,25.9776536 Z" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

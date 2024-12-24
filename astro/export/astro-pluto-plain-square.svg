@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>astro-pluto-plain-square</title>
+    <g id="astro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-360, -112)" id="pluto" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(360, 75)">
+                <g id="astro-pluto-plain-square" transform="translate(0, 37)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M17.8313165,5.57 C20.2873735,5.57 22.29925,7.55574822 22.29925,10.0379335 C22.29925,12.5201188 20.2873735,14.505867 17.8313165,14.505867 L11.29925,14.505867 M18.0142144,5.57 L11.29925,5.59612827 L11.29925,25.7148931 L21.9334543,25.7148931" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

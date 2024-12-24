@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="110px" viewBox="0 0 32 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-moon-plain-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-720, -152)" id="moon" stroke-width="2.5">
+            <g transform="translate(720, 74)">
+                <g id="plain" transform="translate(0, 38)">
+                    <g id="trump-moon-plain-circle" transform="translate(0, 40)">
+                        <circle id="Oval" stroke="#000000" cx="16" cy="16" r="14.75"></circle>
+                        <path d="M3.91780173,96 C3.91780173,89.3173682 9.31736821,83.9178017 16,83.9178017 C22.6826318,83.9178017 28.0821983,89.3173682 28.0821983,96 C28.0821983,102.682632 22.6826318,108.082198 16,108.082198 C9.31736821,108.082198 3.91780173,102.682632 3.91780173,96 L3.91780173,96 Z M20.1017888,84.897733 C20.1017888,84.897733 16.4538558,86.9525143 15.0260453,89.5563029 C13.5982349,92.1600915 18.0280819,94.5710169 18.0280819,94.5710169 L13.9993127,97.4213224 C13.9993127,97.4213224 18.9046312,98.5697436 17.3505544,102.721061 C15.7964776,106.872378 10.6004335,106.772402 10.6004335,106.772402" id="icon" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

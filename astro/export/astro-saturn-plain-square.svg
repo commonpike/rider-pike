@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>astro-saturn-plain-square</title>
+    <g id="astro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-240, -112)" id="saturn" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(240, 75)">
+                <g id="astro-saturn-plain-square" transform="translate(0, 37)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M11.0589981,14.338591 C11.9843399,13.3080967 14.318612,12.0357518 15.8117771,12.0357518 C18.5878023,12.0357518 20.8170347,14.2860147 20.8170347,17.0410095 C20.8170347,18.4079916 20.3543638,19.4174553 19.4710831,20.637224 M23.9085174,24.9064143 C23.382755,25.5793901 22.5625657,26 21.637224,26 C20.0389064,26 18.7560463,24.6961094 18.7560463,23.1188223 C18.7560463,22.2355415 19.0294427,21.3312303 19.4710831,20.637224 M11.0588854,22.6771819 L11.0588854,6 M7,8.03995794 L17.1787592,8.03995794" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

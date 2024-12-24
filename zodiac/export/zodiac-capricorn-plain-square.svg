@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-capricorn-plain-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-360, -112)" id="capricorn" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(360, 75)">
+                <g id="zodiac-capricorn-plain-square" transform="translate(0, 37)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M6,17.0595214 L9.77115889,13 L12.4044417,24.5461184 L15.4916509,13 L21.9158365,13 C23.5726908,13 24.9158365,11.6568542 24.9158365,10 C24.9158365,8.34314575 23.5726908,7 21.9158365,7 C20.2589823,7 18.9158365,8.34314575 18.9158365,10 C18.9158365,10.4755353 19.0264785,10.9252288 19.223424,11.3247419 C22.4766205,16.8573454 24.2698755,19.8771966 24.6031889,20.3842955 C25.103159,21.1449438 25.0639809,21.8723929 25.0639809,22.382918 C25.0639809,22.8934431 23.9035167,24.8075574 22.4144268,24.8075574 C20.9253368,24.8075574 19.9243504,24.4723393 19.4200934,23.3115539 C19.0839222,22.537697 18.9158365,22.0489908 18.9158365,21.8454355" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

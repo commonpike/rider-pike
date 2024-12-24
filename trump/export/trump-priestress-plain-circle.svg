@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-priestress-plain-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-80, -152)" id="priestress" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(80, 74)">
+                <g id="plain" transform="translate(0, 38)">
+                    <g id="trump-priestress-plain-circle" transform="translate(0, 40)">
+                        <circle id="Oval" cx="16" cy="16" r="14.75"></circle>
+                        <path d="M6.80302886,12.1333164 C6.80302886,17.0185893 10.9169428,20.9544974 16,20.9544974 C21.0830572,20.9544974 25.1969711,16.9988108 25.1969711,12.1333164 M6.80302886,11.0455026 C6.80302886,15.9307755 10.9169428,16.4647932 16,16.4647932 C21.0830572,16.4647932 25.1969711,15.9109971 25.1969711,11.0455026" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

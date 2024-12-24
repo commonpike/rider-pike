@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>astro-sun-plain-square</title>
+    <g id="astro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -112)" id="sun" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(0, 75)">
+                <g id="astro-sun-plain-square" transform="translate(0, 37)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M6,16 C6,10.4776119 10.4776119,6 16,6 C21.5223881,6 26,10.4776119 26,16 C26,21.5223881 21.5223881,26 16,26 C10.4776119,26 6,21.5223881 6,16 Z M12.3539446,16 C12.3539446,13.9744136 13.9957356,12.3326226 16.021322,12.3326226 C18.0469083,12.3326226 19.6886994,13.9744136 19.6886994,16 C19.6886994,18.0255864 18.0469083,19.6673774 16.021322,19.6673774 C13.9957356,19.6673774 12.3539446,18.0255864 12.3539446,16 Z" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

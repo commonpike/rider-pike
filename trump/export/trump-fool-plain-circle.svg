@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-fool-plain-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -152)" id="fool" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(0, 74)">
+                <g id="plain" transform="translate(0, 38)">
+                    <g id="trump-fool-plain-circle" transform="translate(0, 40)">
+                        <circle id="Oval" cx="16" cy="16" r="14.75"></circle>
+                        <path d="M8.65848292,12.5671758 L23.297218,12.5671758 M9.09908232,24.0304311 L15.9540791,14.4997742 L22.6100599,23.7871892 M15.9778505,10.1922518 C17.2375625,10.1922518 18.2587608,9.17105341 18.2587608,7.91134141 C18.2587608,6.65162941 17.2375625,5.63043106 15.9778505,5.63043106 C14.7181385,5.63043106 13.6969401,6.65162941 13.6969401,7.91134141 C13.6969401,9.17105341 14.7181385,10.1922518 15.9778505,10.1922518 Z" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

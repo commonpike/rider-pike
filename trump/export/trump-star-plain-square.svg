@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-star-plain-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-680, -112)" id="star" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(680, 74)">
+                <g id="trump-star-plain-square" transform="translate(0, 38)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M15.86397,5.64 L13.891535,11.4212751 L8.7677382,9.85693008 L10.5134566,13.9605018 L5.23095813,15.7288919 L10.5134566,17.6559836 L8.7677382,22.258332 L13.5741316,20.7166586 L15.86397,26.3619037 M16.13603,5.64 L18.108465,11.4212751 L23.2322618,9.85693008 L21.4865434,13.9605018 L26.7690419,15.7288919 L21.4865434,17.6559836 L23.2322618,22.258332 L18.4258684,20.7166586 L16.13603,26.3619037" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

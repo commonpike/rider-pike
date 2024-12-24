@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-priestress-diap-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-80, -192)" id="priestress">
+            <g transform="translate(80, 74)">
+                <g id="trump-priestress-diap-square" transform="translate(0, 118)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M5.26993524,11.4891474 C5.26993524,17.1887732 10.0696201,21.7807794 16,21.7807794 C21.9303799,21.7807794 26.7300648,17.1656978 26.7300648,11.4891474 M5.26993524,10.22 C5.26993524,15.9196258 10.0696201,16.5426618 16,16.5426618 C21.9303799,16.5426618 26.7300648,15.8965504 26.7300648,10.22" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

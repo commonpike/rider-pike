@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sephirot-4-mercy-plain-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sephirot" transform="translate(-120, -112)" stroke="#000000" stroke-width="2.5">
+            <g id="4-mercy" transform="translate(120, 77)">
+                <g id="plain" transform="translate(0, 35)">
+                    <g id="sephirot-4-mercy-plain-square" transform="translate(0, 0)">
+                        <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                        <rect id="Rectangle" stroke-linecap="round" stroke-linejoin="round" x="5" y="5" width="22" height="22"></rect>
+                        <path d="M5.04018097,16 C5.04018097,16 7.38542037,11.6 10.3685664,11.6 C13.3517124,11.6 15.3839155,15.2178969 16,16 M26.959819,16 C26.959819,16 24.6145796,20.4 21.6314336,20.4 C18.6482876,20.4 16.6160845,16.7821031 16,16" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

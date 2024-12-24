@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-taurus-diap-circle</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-40, -232)" id="taurus">
+            <g transform="translate(40, 75)">
+                <g id="diap" transform="translate(0, 117)">
+                    <g id="zodiac-taurus-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M16.0474847,27.4587448 C19.8872529,27.4587448 23,24.3459977 23,20.5062295 C23,16.6664613 19.8872529,13.5537142 16.0474847,13.5537142 C12.2077165,13.5537142 9.09496939,16.6664613 9.09496939,20.5062295 C9.09496939,24.3459977 12.2077165,27.4587448 16.0474847,27.4587448 Z M8.5,6.07076946 C8.51641728,6.39196663 8.5537249,6.70764685 8.61059086,7.0164781 C9.23211513,10.3918911 12.1900186,12.9491476 15.7452014,12.9491476 C19.3491537,12.9491476 22.3393275,10.3212498 22.9040664,6.87711045 C22.9511343,6.59006055 22.9813544,6.29734079 22.9936778,6" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

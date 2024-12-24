@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-aries-diap-circle</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -232)" id="aries">
+            <g transform="translate(0, 75)">
+                <g id="diap" transform="translate(0, 117)">
+                    <g id="zodiac-aries-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M16,12.5 C16,9.46243388 13.5375661,7 10.5,7 C7.46243388,7 5,9.46243388 5,12.5 C5,14.0038933 5.60359707,15.3668089 6.5817492,16.3597048 M25.98908,15.6785297 C26.6257521,14.7809791 27,13.6841947 27,12.5 C27,9.46243388 24.5375661,7 21.5,7 C18.4624339,7 16,9.46243388 16,12.5 M16,12.6788801 L16,26.8" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

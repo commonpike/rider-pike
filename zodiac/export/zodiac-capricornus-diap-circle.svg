@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-capricornus-diap-circle</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-360, -320)" fill="#000000" id="capricornus">
+            <g transform="translate(360, 0)">
+                <g id="diap" transform="translate(0, 280)">
+                    <g id="zodiac-capricornus-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

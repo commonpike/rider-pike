@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-hangedman-diap-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-480, -232)" id="hangedman">
+            <g transform="translate(480, 74)">
+                <g id="diap" transform="translate(0, 118)">
+                    <g id="trump-hangedman-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M24.2167961,19.8131606 L7.78320393,19.8131606 M23.7210618,6.42839127 L16.0371801,17.1114655 L8.57637882,6.70104514 M16,27.6283913 C17.4120325,27.6283913 18.5567109,26.4837128 18.5567109,25.0716803 C18.5567109,23.6596479 17.4120325,22.5149694 16,22.5149694 C14.5879675,22.5149694 13.4432891,23.6596479 13.4432891,25.0716803 C13.4432891,26.4837128 14.5879675,27.6283913 16,27.6283913 Z" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

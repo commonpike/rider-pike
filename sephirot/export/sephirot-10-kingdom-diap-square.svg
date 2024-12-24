@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sephirot-10-kingdom-diap-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sephirot" transform="translate(-360, -192)">
+            <g id="10-kingdom" transform="translate(360, 77)">
+                <g id="sephirot-10-kingdom-diap-square" transform="translate(0, 115)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" x="5" y="5" width="22" height="22"></rect>
+                    <path d="M16.0314511,24.9668023 C18.688932,24.9668023 20.843246,22.8124883 20.843246,20.1550074 C20.843246,17.4975265 18.688932,15.3432125 16.0314511,15.3432125 C13.3739702,15.3432125 11.2196562,17.4975265 11.2196562,20.1550074 C11.2196562,22.8124883 13.3739702,24.9668023 16.0314511,24.9668023 Z M15.9125641,6 L15.9379205,15.3576466 M12.4235897,10.850439 L19.4015385,10.850439" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

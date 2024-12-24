@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-fool-plain-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -112)" id="fool" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(0, 74)">
+                <g id="trump-fool-plain-square" transform="translate(0, 38)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M8.68063244,13.7367447 L23.3193676,13.7367447 M9.12123183,25.2 L15.9762286,15.6693431 L22.6322094,24.9567582 M16,11.3618207 C17.259712,11.3618207 18.2809104,10.3406224 18.2809104,9.08091035 C18.2809104,7.82119835 17.259712,6.8 16,6.8 C14.740288,6.8 13.7190896,7.82119835 13.7190896,9.08091035 C13.7190896,10.3406224 14.740288,11.3618207 16,11.3618207 Z" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

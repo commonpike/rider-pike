@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-judgement-diap-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-800, -192)" id="judgement">
+            <g transform="translate(800, 74)">
+                <g id="trump-judgement-diap-square" transform="translate(0, 118)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <g id="icon" transform="translate(3.969, 4.18)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5">
+                        <path d="M24.0410808,16.9294522 C24.0410808,10.2793452 18.6496691,4.90891179 12.0205404,4.90891179 C5.39141166,4.90891179 0,10.3003234 0,16.9294522 L24.062059,16.9294522 L24.0410808,16.9294522 Z M8.34934569,15.8176046 L12.0205404,5.28652038 L15.6917351,15.8176046" id="wings"></path>
+                        <path d="M14.6847788,2.66423845 C14.6847788,1.19576056 13.4890183,0 12.0205404,0 C10.5520625,0 9.35630195,1.19576056 9.35630195,2.66423845 C9.35630195,4.13271633 10.5520625,5.32847689 12.0205404,5.32847689 C13.4890183,5.32847689 14.6847788,4.13271633 14.6847788,2.66423845 Z M12.0205404,20.7684729 C14.140773,20.7684729 15.8595612,19.0496848 15.8595612,16.9294522 C15.8595612,14.8092196 14.140773,13.0904314 12.0205404,13.0904314 C9.90030778,13.0904314 8.18151964,14.8092196 8.18151964,16.9294522 C8.18151964,19.0496848 9.90030778,20.7684729 12.0205404,20.7684729 Z" id="circles" fill="#000000"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

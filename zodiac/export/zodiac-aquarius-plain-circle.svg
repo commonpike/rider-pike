@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-aquarius-plain-circle</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-400, -152)" id="aquarius" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(400, 75)">
+                <g id="plain" transform="translate(0, 37)">
+                    <g id="zodiac-aquarius-plain-circle" transform="translate(0, 40)">
+                        <circle id="Oval" cx="16" cy="16" r="14.75"></circle>
+                        <path d="M5.5,12.935647 L8.6386418,10 L13.7721351,14.9576245 L18.0936492,10 L22.9930364,14.9576245 L26.5,11.606603 M5.5,19.0793536 L8.6386418,16.1437066 L13.7721351,21.1013311 L18.0936492,16.1437066 L22.9930364,21.1013311 L26.5,17.7503096" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

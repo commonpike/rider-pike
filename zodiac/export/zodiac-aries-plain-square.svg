@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-aries-plain-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0, -112)" id="aries" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(0, 75)">
+                <g id="zodiac-aries-plain-square" transform="translate(-0, 37)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M16,12 C16,9.23857625 13.7614237,7 11,7 C8.23857625,7 6,9.23857625 6,12 C6,13.3671757 6.54872461,14.6061899 7.43795382,15.5088226 M25.0809818,14.8895725 C25.6597747,14.0736174 26,13.0765406 26,12 C26,9.23857625 23.7614237,7 21,7 C18.2385763,7 16,9.23857625 16,12 M16,12.1626182 L16,25" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

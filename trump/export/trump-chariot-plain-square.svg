@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-chariot-plain-square</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-280, -112)" id="chariot" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(280, 74)">
+                <g id="trump-chariot-plain-square" transform="translate(0, 38)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M11.3364716,9.5 L20.6636284,9.5 L20.6636284,18.3179379 L11.3364716,18.3179379 Z M8.89270132,21.7595811 L22.5981799,21.7595811 M7.9151932,16.3629216 L7.9151932,25.5066956 M24.0848068,16.3629216 L24.0848068,25.5066956" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

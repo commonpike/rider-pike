@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trump-strength-diap-circle</title>
+    <g id="trump" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-320, -232)" id="strength">
+            <g transform="translate(320, 74)">
+                <g id="diap" transform="translate(0, 118)">
+                    <g id="trump-strength-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <path d="M9.7486911,15.9625066 L13.4136126,12.1091035 L5.41361257,8.73737576 L9.7486911,15.9625066 M11.9057592,18.1824019 L14.9005236,23.1876375 L7.67539267,24.7373758 L11.9057592,18.1824019 M13.4136126,12.1091035 L15.8638743,8.77926057 M18.565445,12.1091035 L26.5863874,8.73737576 L22.2513089,15.9625066 L18.565445,12.1091035 Z M19.5497382,18.1824019 L16.5549738,23.1876375 L23.8010471,24.7373758 L19.5497382,18.1824019 M18.4816754,12.1509883 L15.8638743,8.77926057" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zodiac-libra-plain-square</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-240, -112)" id="libra" stroke="#000000" stroke-width="2.5">
+            <g transform="translate(240, 75)">
+                <g id="zodiac-libra-plain-square" transform="translate(0, 37)">
+                    <rect id="Rectangle" x="1.25" y="1.25" width="29.5" height="29.5"></rect>
+                    <path d="M27,15.5934935 L21.8363692,15.5934935 C21.6300232,12.5681147 19.1105299,10 16.0327895,10 C12.9524804,10 10.4313505,12.5645295 10.228698,15.5934935 C9.16037131,15.5934935 8.35912629,15.5934935 7.82496294,15.5934935 C7.34370339,15.5934935 6.40204908,15.5934935 5,15.5934935 M5,20.2408854 L27,20.2408854" id="icon" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

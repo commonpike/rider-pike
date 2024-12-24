@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>astro-jupiter-diap-square</title>
+    <g id="astro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-200, -192)" id="jupiter">
+            <g transform="translate(200, 75)">
+                <g id="astro-jupiter-diap-square" transform="translate(0, 117)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="32" height="32"></rect>
+                    <path d="M7.8095526,13.1330109 C7.00544135,12.2599758 6.5,11.1112455 6.5,9.82466747 C6.5,7.15961306 8.65961306,5 11.3246675,5 C13.9897219,5 16.1493349,7.15961306 16.1493349,9.82466747 C16.1493349,9.82466747 17.9183797,16.1426844 10.2678356,22.0931076 M6.93651753,22.2539299 L25.5,22.2539299 M20.882104,7.06771463 L20.882104,26.7799274" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
