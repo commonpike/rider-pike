@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sephirot-07-victory-diap-circle</title>
+    <g id="zodiac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sephirot" transform="translate(-241, -232)">
+            <g id="07-victory" transform="translate(241, 77)">
+                <g id="diap" transform="translate(0, 115)">
+                    <g id="sephirot-07-victory-diap-circle" transform="translate(0, 40)">
+                        <circle id="Oval" fill="#000000" cx="16" cy="16" r="16"></circle>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" cx="16" cy="16" r="11"></circle>
+                        <path d="M15.9379487,5.98 C15.8758974,14.4810256 11.6338462,14.3230769 10.7876923,18.4353846 C9.94717949,22.5476923 13.805641,25.0353846 15.9323077,25.0635897 M16.1861538,5.98 C16.2482051,14.4810256 20.4902564,14.3230769 21.3364103,18.4353846 C22.1769231,22.5476923 18.3184615,25.0353846 16.1917949,25.0635897" id="icon" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
